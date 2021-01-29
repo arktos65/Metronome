@@ -6,4 +6,5 @@ control the metronome.
 ## Requirements
 
 Hardware: Arduino Uno microcontroller
+
 Software: PlatformIO IDE
